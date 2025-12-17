@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hola, soy Williams Andrés Rosas Vargas
 
-<!--
-**WilliamsRv/WilliamsRv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de sistemas y desarrollador full‑stack. Me gusta diseñar y construir soluciones completas: desde la base de datos y APIs hasta interfaces web modernas, además de automatizar despliegues y flujos de trabajo con herramientas cloud‑native.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Sobre mí
+
+- 💻 Experiencia en aplicaciones de escritorio con **Java Swing** y sistemas web con **Java Spring Boot**.
+- 🌐 Desarrollo frontend con **JavaScript**, **Angular**, **React**, **HTML**, **CSS** y **Tailwind**.
+- 🗄️ Trabajo con bases de datos **PostgreSQL**, **MySQL**, **Oracle SQL** y **MongoDB**.
+- 📦 Desarrollo de scripts y automatizaciones con **Google Apps Script**.
+- 🐧 Uso diario de **Linux** para desarrollo y administración.
+- 📦 Contenerización con **Docker** y orquestación básica con **Kubernetes**.
+- 🚀 Automatización de despliegues con **ArgoCD**.
+
+---
+
+## 🛠️ Tech Stack
+
+**Lenguajes & Backend**
+- Java (Swing, Spring Boot)
+- JavaScript / Node.js
+- Python
+- Google Apps Script
+
+**Frontend**
+- Angular  
+- React  
+- HTML, CSS, Tailwind  
+
+**Bases de datos**
+- PostgreSQL  
+- MySQL  
+- Oracle SQL  
+- MongoDB  
+
+**DevOps & Herramientas**
+- Docker  
+- Kubernetes (básico)  
+- ArgoCD  
+- Linux  
+- Git & GitHub  
+
+---
+
+---
+
+## 📫 Cómo contactarme
+
+- ✉️ Email: williams.rosas.v@vallegrande.edu.pe  
+- 🐙 GitHub: *este perfil*  
